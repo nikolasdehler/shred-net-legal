@@ -1,4 +1,6 @@
+---
 # Terms of Service
+---
 
 **Version 1.1 — Effective: [06.06.2026]**
 

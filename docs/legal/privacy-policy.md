@@ -1,4 +1,6 @@
+---
 # Privacy Policy
+---
 
 **Version 1.1 — Effective: [06.06.2026]**
 
