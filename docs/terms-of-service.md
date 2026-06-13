@@ -34,7 +34,7 @@ You must be at least **16 years old** to use ShredNet. By creating an account yo
 
 ShredNet is a social coordination app for outdoor sports enthusiasts. You may use it to:
 
-- Plan and share your intended visits to ski resorts, mountain bike trails, surf spots, and similar venues with your accepted friends.
+- Plan and share your intended visits to ski resorts, mountain bike trails, surf spots, kitesurfing locations, wakeboarding cable parks, climbing areas, and similar venues with your accepted friends.
 - Connect with other users as friends.
 - View the planned activity dates of your friends.
 - Coordinate travel (e.g. carpooling) with friends who share a planned visit.
@@ -79,7 +79,7 @@ The App, including its design, code, graphics, and the resort database (excludin
 
 ## 7. Safety disclaimer
 
-ShredNet is a planning and coordination tool. **We are not responsible for the safety of any outdoor sports activity.** Skiing, snowboarding, mountain biking, surfing, hiking, and other sports involve inherent risks. You are solely responsible for:
+ShredNet is a planning and coordination tool. **We are not responsible for the safety of any outdoor sports activity.** Skiing, snowboarding, mountain biking, surfing, hiking, wakeboarding, kitesurfing, climbing, and other sports involve inherent risks. You are solely responsible for:
 
 - Assessing whether conditions at a resort or trail are safe.
 - Following all applicable local rules, resort regulations, and trail guidelines.

@@ -40,7 +40,7 @@ You may optionally upload a profile photo. It is stored in Firebase Storage and 
 When you plan a ride, we store:
 
 - The resort you selected.
-- Your chosen sport (e.g. skiing, snowboarding, mountain biking, hiking, surfing, après-ski).
+- Your chosen sport (e.g. skiing, snowboarding, mountain biking, hiking, surfing, wakeboarding, kitesurfing, climbing, après-ski).
 - Your planned start and end dates.
 - Optionally, a specific time window (start time, end time, and timezone) if you choose to set one.
 - An optional written note visible to your friends.
