@@ -2,7 +2,7 @@
 # Privacy Policy
 ---
 
-**Version 1.1 — Effective: [06.06.2026]**
+**Version 1.2 — Effective: [21.06.2026]**
 
 ShredNet ("the App", "we", "us", "our") is a mobile application that lets you share planned sports activity dates with friends. This Privacy Policy explains what personal data we collect, why we collect it, who we share it with, and what rights you have under the General Data Protection Regulation (GDPR).
 
@@ -101,7 +101,7 @@ If you submit a new resort or propose a correction to existing resort data, we s
 
 ## 2. What we do not collect
 
-- **GPS or precise location data.** We never request or store your device's GPS coordinates. The map in the App shows the publicly available geographic coordinates of resorts and trail locations. Your presence on the map is derived solely from the resort you chose when planning a ride — not from your device location.
+- **GPS or precise location data.** We never request or store your device's GPS coordinates. The map in the App shows the publicly available geographic coordinates of resorts and trail locations. Your presence on the map is derived solely from the resort you chose when planning a ride — not from your device location. Weather forecasts shown in the App are fetched using those same public resort coordinates — your device location is never used.
 - **Advertising identifiers or SDKs.** We do not use any advertising networks.
 - **Analytics or crash-reporting SDKs.** We do not use Firebase Analytics, Crashlytics, or any equivalent third-party service.
 - **Cookies.** This is a mobile application and does not use cookies.
@@ -119,12 +119,16 @@ We rely on the following sub-processors, each of which processes data on our beh
 | **Google LLC** (Firebase Authentication, Firestore, Firebase Storage, Cloud Functions) | Core infrastructure — authentication, database, file storage, and server-side functions | Email, display name, profile picture, ride data, friend lists, notifications, push token, consent record | United States (transferred under EU Standard Contractual Clauses) |
 | **Expo Inc.** | Push notification routing — receives Expo push tokens and forwards notifications to Apple APNs / Google FCM | Expo push token, notification title and body | United States |
 | **Google LLC** (Google Maps Platform) | Map rendering on Android devices | No personal data is transmitted; only the public coordinates of resorts are passed to the map renderer | N/A |
+| **Open-Meteo** (open-meteo.com) | Weather forecast data — provides current conditions and hourly and daily forecasts for selected resorts | Only the public geographic coordinates (latitude and longitude) of the resort are included in the request. No user identifiers or personal data are sent. Your IP address is transmitted incidentally as part of the standard HTTP connection but is not retained by Open-Meteo beyond what is technically required for request routing, in accordance with their published GDPR commitment. No personal data is stored by Open-Meteo on our behalf. | European Union (Switzerland / EU infrastructure) |
 
 **Google Firebase Data Processing Agreement:**
 Google's Data Processing and Security Terms are available at firebase.google.com/support/privacy. The applicable Standard Contractual Clauses are included within that agreement and cover transfers of personal data to the United States.
 
 **Expo Privacy:**
 Expo's privacy policy is available at expo.dev/privacy.
+
+**Open-Meteo:**
+Open-Meteo's privacy policy is available at open-meteo.com/en/terms. Open-Meteo is a free, open-source weather API that does not require authentication and processes no personal data on our behalf. Because no personal data is transmitted, Open-Meteo is not a data processor under GDPR Art. 4(8) and no Data Processing Agreement is required. The service is included in this section for transparency.
 
 ---
 
@@ -217,5 +221,5 @@ Continued use of the App after a non-material update constitutes acceptance of t
 
 ---
 
-*ShredNet Privacy Policy — Version 1.1*
+*ShredNet Privacy Policy — Version 1.2*
 *Data Controller: [NIKOLAS DEHLER]*

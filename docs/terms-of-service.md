@@ -2,7 +2,7 @@
 # Terms of Service
 ---
 
-**Version 1.1 — Effective: [06.06.2026]**
+**Version 1.2 — Effective: [21.06.2026]**
 
 These Terms of Service ("Terms") govern your access to and use of ShredNet ("the App"), operated by [NIKOLAS DEHLER], [SILCHERSTR. 4, 89231 NEU-ULM, GERMANY] ("we", "us", "our").
 
@@ -38,6 +38,7 @@ ShredNet is a social coordination app for outdoor sports enthusiasts. You may us
 - Connect with other users as friends.
 - View the planned activity dates of your friends.
 - Coordinate travel (e.g. carpooling) with friends who share a planned visit.
+- View weather forecasts for resorts and planned ride dates, sourced from the Open-Meteo public weather API.
 - Log a completed ride with a rating, condition tags, notes, and photos.
 - Suggest new resorts or corrections to existing resort data.
 
@@ -88,6 +89,8 @@ ShredNet is a planning and coordination tool. **We are not responsible for the s
 
 Nothing in the App constitutes advice about the safety, suitability, or conditions of any resort, trail, or activity. Meeting up with other users or following their plans is at your own risk and judgment.
 
+**Weather information disclaimer.** Weather forecasts displayed in the App are sourced from the Open-Meteo public weather API and are provided for general planning reference only. We do not guarantee their accuracy, completeness, or timeliness. Actual weather conditions at any resort or location may differ materially from what is shown. You must not rely solely on in-app weather data when making decisions about whether an activity is safe to undertake. Always consult authoritative local weather sources and resort bulletins before heading out.
+
 ---
 
 ## 8. Availability and changes to the App
@@ -104,7 +107,9 @@ We may modify, suspend, or discontinue the App or any part of it at any time. Wh
 
 ## 9. Third-party services
 
-The App uses third-party services including Google Firebase and Expo. Your use of those services is subject to their own terms and privacy policies. We are not responsible for the practices of these third parties.
+The App uses third-party services including Google Firebase, Expo, and Open-Meteo. Your use of those services is subject to their own terms and privacy policies. We are not responsible for the accuracy of data provided by third-party services or for the practices of these third parties.
+
+Open-Meteo (open-meteo.com) is a free, open-source weather API. It receives only public resort coordinates when the App fetches weather data. Open-Meteo's terms are available at open-meteo.com/en/terms.
 
 ---
 
@@ -171,5 +176,5 @@ If you have questions about these Terms, contact us at:
 
 ---
 
-*ShredNet Terms of Service — Version 1.1*
+*ShredNet Terms of Service — Version 1.2*
 *Operator: [NIKOLAS DEHLER]*
